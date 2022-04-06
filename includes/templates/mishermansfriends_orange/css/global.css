@@ -1,0 +1,84 @@
+/* - TABELLEN INLAY STYLES FÜR MODULE + MELDUNGEN - */
+
+
+table.inlay {
+
+	border: 1px solid #d2d2d2;
+	background: #fbfbfb;
+	overflow: hidden;
+	text-align: left;
+	color: #626262;
+	position: relative;
+	margin: 0px 0px 20px 0px;
+
+}
+
+table.inlay tr td {
+
+	padding: 15px 20px 0px 20px;
+
+}
+
+table.inlay tr td table tr td {
+
+	padding: 0px;
+
+}
+
+table.inlay tr td p {
+
+	margin: 0px;
+	overflow: hidden;
+	
+}
+
+table.inlay tr td .formular {
+
+	width: 98%;
+	height: 18px;
+	padding: 4px 0px 0px 5px;
+	margin: 2px 0px 2px 0px;
+	background: #fff;
+	border: 1px solid #d2d2d2;
+	font-size: 11px;
+	color: #626262;
+	font-family: "Verdana";
+	
+}
+
+table.inlay tr td .textarea {
+
+	width: 98%;
+	height: 150px;
+	padding: 5px 0px 0px 5px;
+	margin: 2px 0px 2px 0px;
+	background: #fff;
+	border: 1px solid #d2d2d2;
+	font-size: 11px;
+	color: #626262;
+	font-family: "Verdana";
+	
+}
+
+table.inlay tr td span.button {
+	
+	/* - Style für <span> vor den Buttons - */
+	
+}
+
+table.inlay tr td input.button {
+
+	height: 24px;
+	background: #fff;
+	overflow: hidden;
+	padding: 2px 5px 3px 5px;
+	margin: 2px 0px 2px 0px;
+	border: 1px solid #d2d2d2;
+	color: #626262;
+	font-family: "Verdana";
+	font-size: 10px;
+	font-weight: bold;
+	text-align: center;
+	cursor: pointer;
+	
+}
